@@ -1,16 +1,16 @@
 const aboutData = {
     title: "About Me",
     subtitle: "Discover my journey, passions, and the story behind my work",
-    image: "/assets/profile.jpg",
+    image: "/assets/wyu2.jpg",
 
     biodata: [
-        { label: "Name", value: "Hizkia Siahaan", icon: "bx bx-id-card" },
-        { label: "Date of Birth", value: "December,02-2004", icon: "bx bx-calendar" },
-        { label: "Place of Birth", value: "Medan, Indonesia", icon: "bx bx-map" },
-        { label: "Email", value: "siahaanhizkia548@gmail.com", icon: "bx bx-envelope" },
-        { label: "Phone", value: "+62 895 1014 4492", icon: "bx bx-phone" },
-        { label: "Education", value: "Universitas Sumatera Utara", icon: "bx bx-book" },
-        { label: "GPA", value: "3.55 / 4.00", icon: "bx bx-award" },
+        { label: "Name", value: "Wahyu Syahputra", icon: "bx bx-id-card" },
+        { label: "Date of Birth", value: "Mei,31-2005", icon: "bx bx-calendar" },
+        { label: "Place of Birth", value: "Riau, Indonesia", icon: "bx bx-map" },
+        { label: "Email", value: "wahyu.syahputradumai2021@gmail.com", icon: "bx bx-envelope" },
+        { label: "Phone", value: "+62 812 8267 8357", icon: "bx bx-phone" },
+        { label: "Education", value: "STT Terpadu Nurul Fikri", icon: "bx bx-book" },
+        { label: "GPA", value: "3.80 / 4.00", icon: "bx bx-award" },
     ],
 
     resume: {

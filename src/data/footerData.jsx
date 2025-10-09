@@ -1,6 +1,6 @@
 const footerData = {
     brand: {
-        name: "Hizkia Siahaan",
+        name: "Wahyu Syahputra",
         icon: "bx bx-code-alt",
         description:
             "Frontend Developer specializing in UI/UX, modern web technologies, and building smooth digital experiences with clean code & creative flow.",
@@ -55,7 +55,7 @@ const footerData = {
         buttonText: "Subscribe",
     },
 
-    copyright: "© 2025 Hizkia Siahaan. All rights reserved.",
+    copyright: "© 2025 Wahyu Syahputra. All rights reserved.",
 };
 
 export default footerData;

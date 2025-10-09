@@ -1,5 +1,5 @@
 const homeData = {
-  title: "Hi, I’m Hizkia Siahaan 👋",
+  title: "Hi, I’m Wahyu Syahputra 👋",
   typingTexts: [
     "Frontend Developer",
     "React Enthusiast",
@@ -8,7 +8,7 @@ const homeData = {
   ],
   description: "I build modern, responsive web apps with clean UI and smooth UX  blending design and code to create experiences that feel intuitive, fast, and delightful to use.",
 
-  img: "/assets/profile.jpg",
+  img: "/assets/wyu2.jpg",
   buttons: [
     {
       label: "Explore My Project",
